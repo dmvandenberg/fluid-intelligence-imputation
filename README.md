@@ -1,4 +1,4 @@
-# UKB-FI-Imputation
+# Fluid intelligence imputation in UK Biobank
 Here we list scripts used in the paper "Imputation of fluid intelligence scores reduces ascertainment bias and increases power for analyses of common and rare variants"
 for a detailed description of analyses and decisions please refer to our paper.
 
