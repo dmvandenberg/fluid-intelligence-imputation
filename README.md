@@ -1,4 +1,4 @@
-# Fluid intelligence imputation in UK Biobank
+# Imputation of fluid intelligence scores reduces ascertainment bias and increases power for analyses of common and rare variants
 In this repository we provide a general lay summary and FAQ along with scripts and GWAS summary statistics used in the study 'Imputation of fluid intelligence scores reduces ascertainment bias and increases power for analyses of common and rare variants' ([preprint](https://www.medrxiv.org/content/10.1101/2025.06.18.25329418v1)). The scripts cover phenotype preparation, SoftImpute-based imputation, GWAS, and downstream analyses. 
 
 ## General Lay Summary
@@ -11,7 +11,7 @@ To address this, we estimated the missing fluid intelligence test scores using i
 This approach led to the discovery of many more genetic variants associated with cognition, including rare variants in genes linked to neurodevelopment. These rare variant associations would not have been detectable without the increased sample size provided by imputation, and many are located in genes known to affect brain development. Importantly, the estimated fluid intelligence scores closely matched the genetic patterns of the real test scores and helped reduce bias caused by missing data.
 
 ## Frequently Asked Questions (FAQ)
-###Why study the genetics of intelligence?
+### Why study the genetics of intelligence?
 Firstly, it is important to note that we can only study intelligence through measurable and imperfect proxies, such as specific cognitive tests, and not as some idealized or fixed concept. When we talk about studying the “genetics of intelligence/cognitive ability”, we really mean we are studying the genetics of specific measures of intelligence/cognitive ability.
 
 Understanding the genetic and environmental factors that shape cognitive differences can help us better understand certain health conditions, as well as how cognition relates to social and health inequalities. Many of the same genetic variants that influence cognitive ability also affect the risk for neurodevelopmental conditions. Socio-economic outcomes like educational attainment (how long do people spend in education) share roughly half of their genetic influences with intelligence. Because cognitive ability plays such a central role in many modern societies, its relationship with genetics is sometimes controversial and vulnerable to misinterpretation. We believe this is important research that should be carried out carefully, transparently, and ethically.
