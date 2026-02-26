@@ -1,4 +1,5 @@
 # Fluid intelligence imputation in UK Biobank
+In this repository we provide a general lay summary and FAQ along with scripts and GWAS summary statistics used in the study 'Imputation of fluid intelligence scores reduces ascertainment bias and increases power for analyses of common and rare variants' ([preprint](https://www.medrxiv.org/content/10.1101/2025.06.18.25329418v1)). The scripts cover phenotype preparation, SoftImpute-based imputation, GWAS, and downstream analyses. 
 
 ## General Lay Summary
 Research on the genetics of intelligence offers both scientific opportunities and ethical responsibilities. We carefully considered the goal of this research, which was, broadly, to better understand the genetics of measures of intelligence in order to eventually inform our understanding of the causes of clinically recognised intellectual disability and developmental delay. Our research was approved by UK Biobank. In addition, we have prepared this lay summary and FAQ to help broader audiences engage with the motivation for this research and the results.  
