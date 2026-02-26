@@ -1,4 +1,4 @@
-# Fluid intelligence imputation in UK Biobank
+# Imputation of fluid intelligence scores reduces ascertainment bias and increases power for analyses of common and rare variants
 In this repository we provide a general lay summary and FAQ along with scripts and GWAS summary statistics used in the study 'Imputation of fluid intelligence scores reduces ascertainment bias and increases power for analyses of common and rare variants' ([preprint](https://www.medrxiv.org/content/10.1101/2025.06.18.25329418v1)). The scripts cover phenotype preparation, SoftImpute-based imputation, GWAS, and downstream analyses. 
 
 ## General Lay Summary
