@@ -62,7 +62,6 @@ rm(EU_ancestry)
 rm(sex.array)
 rm(covariates)
 rm(EU_genetic_PCs_file)
-rm(wei_download)
 
 #### Here we have 455665 genetically EU individuals
 
